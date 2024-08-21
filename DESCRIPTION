@@ -1,7 +1,7 @@
 Package: single
 Type: Package
 Title: Accurate consensus sequence from nanopore reads of a gene library
-Version: 1.9.0
+Version: 1.9.1
 Authors@R: 
   c(person(given = "Rocio",
            family = "Espada",
@@ -23,3 +23,4 @@ Imports: Biostrings, BiocGenerics, dplyr, GenomicAlignments,IRanges, methods, re
 Suggests: BiocStyle, knitr, rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 7.2.3
+PackageStatus: Deprecated
